@@ -9,5 +9,9 @@ public class Class4HW {
 	public void add2(int a, int b) {
 		System.out.println(a + b);
 	}
+	
+	public void add3(int a, int b) {
+		System.out.println(a + b);
+	}
 
 }
